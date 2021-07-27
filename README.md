@@ -24,7 +24,7 @@
 
 ### Hi there! I'm Kamol 👋
 
-- 🔭 I’m currently working @AppsCode ([KubeDB](www.kubedb.com), [KubeVault](www.kubevault.com))
+- 🔭 I’m currently working @AppsCode ([KubeDB](https://github.com/kubedb), [KubeVault](https://github.com/kubevault))
 - 🌱 I’m currently learning Kubernetes, Distributed System Design, and Cloud Architecture.
 - 💬 Ask me about anything related to Kubernetes, Go, Elasticsearch.
 - 📫 How to reach me: shoot an email at "kamolhasan383@gmail.com"
