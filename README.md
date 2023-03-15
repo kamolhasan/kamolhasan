@@ -27,8 +27,8 @@
 - 💸 I’m currently working @OmisePayments 
 - 🌱 I’m currently learning Fintech, Distributed System Design, Kubernetes, and Cloud Architecture.
 - 🔭 Former senior software engineer @AppsCode 
-- 🧠 Former Elasticsearch operator lead ([KubeDB](https://github.com/kubedb)
-- 🧠 Former Hashicorp's Vault operator lead [KubeVault](https://github.com/kubevault))
+- 🧠 Former Elasticsearch operator lead ([KubeDB](https://github.com/kubedb))
+- 🧠 Former Hashicorp's Vault operator lead ([KubeVault](https://github.com/kubevault))
 - 💬 Ask me about anything related to Kubernetes, Go, Elasticsearch.
 - 📫 How to reach me: shoot an email at "kamolhasan383@gmail.com"
 - 🎿 Hobbies other than coding: Watching movies/series, Gaming, Thinking about being more serious from the next day 😜.
